@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MobileTask2</string>
+
+    <!-- Main Activity Labels -->
+    <string name="label_recipe_title">Recipe Title</string>
+    <string name="label_ingredients">Ingredients</string>
+    <string name="label_category">Category</string>
+    <string name="label_recipes_list">Recipes List</string>
+
+    <!-- Input Hints -->
+    <string name="hint_recipe_title">Enter recipe title</string>
+    <string name="hint_ingredients">Enter ingredients</string>
+    <string name="hint_category">Enter category</string>
+
+    <!-- Buttons -->
+    <string name="btn_add_recipe">Add Recipe</string>
+    <string name="btn_filter">Filter</string>
+    <string name="btn_show_all">Show All</string>
+
+    <!-- Recipe Details Labels -->
+    <string name="detail_title_label">Recipe Title</string>
+    <string name="detail_category_label">Category</string>
+    <string name="detail_ingredients_label">Ingredients</string>
+
+    <!-- Placeholder Text -->
+    <string name="placeholder_title">Title will appear here</string>
+    <string name="placeholder_category">Category will appear here</string>
+    <string name="placeholder_ingredients">Ingredients will appear here</string>
+
+    <!-- Toast Messages -->
+    <string name="toast_fill_all_fields">Please fill all fields</string>
+    <string name="toast_recipe_added">Recipe added!</string>
+    <string name="toast_no_category_selected">No category selected</string>
+</resources>
